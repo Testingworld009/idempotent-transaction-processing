@@ -1,0 +1,5 @@
+[
+  {"transactionId":"DATA-TXN-001","requestId":"DATA-REQ-001","accountId":"DATA-ACC-001","type":"CREDIT","amount":250.00,"currency":"INR","sequenceNumber":1},
+  {"transactionId":"DATA-TXN-002","requestId":"DATA-REQ-002","accountId":"DATA-ACC-001","type":"DEBIT","amount":50.00,"currency":"INR","sequenceNumber":2},
+  {"transactionId":"DATA-TXN-003","requestId":"DATA-REQ-003","accountId":"DATA-ACC-002","type":"CREDIT","amount":100.50,"currency":"USD","sequenceNumber":3}
+]

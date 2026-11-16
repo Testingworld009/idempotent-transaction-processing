@@ -1,0 +1,5 @@
+[
+  {"transactionId":"NEG-001","requestId":"NEG-R1","accountId":"ACC-1","type":"CREDIT","amount":-1.00,"currency":"INR","sequenceNumber":1},
+  {"transactionId":"ZERO-001","requestId":"ZERO-R1","accountId":"ACC-1","type":"CREDIT","amount":0.00,"currency":"INR","sequenceNumber":2},
+  {"transactionId":"CUR-001","requestId":"CUR-R1","accountId":"ACC-1","type":"CREDIT","amount":10.00,"currency":"XYZ","sequenceNumber":3}
+]

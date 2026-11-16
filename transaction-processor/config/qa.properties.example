@@ -1,0 +1,13 @@
+# Copy/export these values in your local test environment; do not commit real credentials.
+API_BASE_URL=http://localhost:8080
+DASHBOARD_URL=
+BROWSER=chrome
+HEADLESS=true
+EXPLICIT_WAIT_SECONDS=10
+
+# Current service is in-memory and has no database persistence.
+# Configure only after a database and schema are provisioned.
+DB_DRIVER=org.postgresql.Driver
+DB_URL=jdbc:postgresql://localhost:5432/txn_qa
+DB_USER=txn_qa_user
+DB_PASSWORD=replace_me
